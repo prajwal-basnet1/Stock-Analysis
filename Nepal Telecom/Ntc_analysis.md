@@ -11,7 +11,7 @@ Government**:164,736,000**
 
 Public**:15,264,000**
 
-<img src="./ntc_image/ownership.png" width="500px" height="400px">
+<img src="./ntc_image/ownership.png" width="450px" height="350px">
 
 
 **MOAT**
@@ -154,7 +154,8 @@ The company is well aware of the reason for the decrease in revenue so they are 
 
 **VALUATION**
 
-> Its very hard to go bankrupt if you don't have any debt \~ peter lynch
+> Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
+  
 
 **LTP as of 2022-06-22:** Rs 860  
 **Ordinary Share Outstanding:** 180,000,000  
@@ -165,7 +166,7 @@ The company is well aware of the reason for the decrease in revenue so they are 
 **ROE:** 5.73  
 **RoA:** 3.51  
 **operating profit margin:** 33%  
-**Return on Shareholder Investment:** 47%  
+**Return on Shareholder Investment:** 47%   
 
 These figures illustrate the company\'s current financial condition in a broad range.
 
@@ -233,8 +234,10 @@ These figures illustrate the company\'s current financial condition in a broad r
 <p></p>
 <p></p>
 
-From the above figures, It is clear that the core business of Ntc has been declining due to the reasons I have explained in the revenue Section. The paid up capital has remain the same for 5 years and recently as the company cannot earn expected profits in 2077/78 the company has decided to give bonus share by 20 percent .The net income has decreased by 53 percent in five years period. However,the book value has remain at the same level which is positive for stakeholders. Eps has been declined by more than 50 percent. The owner earning is the warren buffet approach of calculating the real earning earned by the business owner by subtracting the capital expenditure. overall, The figures for owner earning has declined by 60 percent.In 2075/76, new rule is implemented to give discount instead of commission which has hampered company revenue significantly.Also, the company has renewed their license at the same time which increased their owner earning.Despite all of this, the core business of this company is very profitable with more than 30 percent operating profit margin which indicates that this company has huge competitive advantage.The only thing that is stoping this company from reaching its full potential is not utilizing its capital properly.
-
+From the above figures, It is clear that the core business of Ntc has been declining due to the reasons I have explained in the revenue Section. The paid up capital has remain the same for 5 years and recently as the company cannot earn expected profits in 2077/78 the company has decided to give bonus share by 20 percent .The net income has decreased by 53 percent in five years period. However,the book value has remain at the same level which is positive for stakeholders. Eps has been declined by more than 50 percent. The owner earning is the warren buffet approach of calculating the real earning earned by the business owner by subtracting the capital expenditure. overall, The figures for owner earning has declined by 60 percent.In 2075/76, new rule is implemented to give discount instead of commission which has hampered company revenue significantly.Also, the company has renewed their license at the same time which increased their owner earning.Despite all of this, the core business of this company is very profitable with more than 30 percent operating profit margin which indicates that this company has huge competitive advantage.The only thing that is stoping this company from reaching its full potential is not utilizing its capital properly.  
+  
+   
+    
 **Warren Buffet 10X Pre Tax**
 
 Warren Buffet has historically paid 10X pre tax earnings for many of his famous investments which includes Coca-cola,American Express, Wells Fargo, Walmart ,and apple. The results of all of these investments have turned out to be astonishing, so there must be something fundamental to
@@ -242,13 +245,14 @@ it given how many times he had success with it , and how many times he mentioned
 
 Warren Buffet thinks of buying stocks as a bond and considers bond as a share price and bond yield as a pre tax earning(not the dividend) instead of bond yield being fixed pre tax earning of the company keeps increasing or decreasing year over year. so, with the rise of company earnings comes a corresponding increase in the market. However,this rule of buffet also faces many risks like valuation,growth,quality of business etc. Thus, I don\'t think 10x pretax earnings for a stock is a bad if it\'s a high quality business that can grow over time but you still have to answer the question how much growth there will be and how much a shareholder can expect to get back.
 
-Pre tax income=Rs 10,946,367,788
-Share outstanding= 180,000,000
-Ltp=Rs 860
-Pre tax per share= Rs 60.81
-Pre tax interest rate=60.81/860
-								=7.07%
-
+Pre tax income=Rs 10,946,367,788  
+Share outstanding= 180,000,000  
+Ltp=Rs 860  
+Pre tax per share= Rs 60.81  
+Pre tax interest rate=60.81/860  
+		     =7.07%  
+  
+  
 I think there are good odds that it can grow its profits, by a healthy 4\~9% per year, due to its strong moat, strong cash generation capability, and strategic initiative to both grow and diversify income streams. Thus, Ntc is giving you 7 percent interest on 860 rupees which can increase by 4\~9 percent over year.
 
 **Market Capitalization**
@@ -259,12 +263,12 @@ The market capitalization shows the cost to buy the whole company at current LTP
 
 Graham number is a traditional approach of representing fair valuation by value investor which sets the upper price limits paid by defensive investors. The formula of Graham number is $\sqrt{15  X  1. 5  X  E. P. S X  Book Value}$
 
-Where,
-Pe ratio=15(maximum)
-Book value per share=1.5( maximum)
+Where,  
+Pe ratio=15(maximum)  
+Book value per share=1.5( maximum)  
 
-And by using this formula,Graham value of Ntc is Rs 680.87.
-
+And by using this formula,Graham value of Ntc is Rs 680.87.  
+  
 In my words,the Graham number is the maximum price with lowest downside risk. Up to this price I won't hesitate to concentrate 70 percent of my portfolio on this company after properly analysing. Although this formula has been very useful to value investors, It does leave out many fundamental characteristics like competition,major stakeholders,industry characteristics etc. So, relying solely on this formula is not a good idea.
 
 **Intrinsic value based on Discounted cash flow**
@@ -325,22 +329,23 @@ The dividend of this company has been very satisfactory to the investors compare
 
 Ntc has provided satisfactory dividends to its investors. Due to overall market crash the company has lost around 34 percent in a year 2078/79.Considering the investment of Rs 1 lakh 5 years ago at \@600 , Ntc shareholders will have compounded their money by 15.64 percent in 5 years period excluding tax.
 
-Initial Investment=Rs 1,00,000
-Initial share price=Rs 600
-Total bought stock=166
+Initial Investment=Rs 1,00,000  
+Initial share price=Rs 600  
+Total bought stock=166  
+  
+Total cash Divided after 5 years= Rs 35,690  
+Current Selling price=Rs 860  
+Total share after including bonus=199  
 
-Total cash Divided after 5 years= Rs 35,690
-Current Selling price=Rs 860
-Total share after including bonus=199
+Capital gains=(199 X 860) - 1,00,000=Rs 71,140  
 
-Capital gains=(199 X 860) - 1,00,000=Rs 71,140
-
-Total gain=capital gains + total cash divided
-			   =Rs 71,140+ 35,690 =Rs 1,06,830
+Total gain=capital gains + total cash divided  
+			   =Rs 71,140+ 35,690 =Rs 1,06,830  
+			     
 
 **Board of Directors and Management of NTC**
 
-There are total 8 directors in NTC:
+There are total 8 directors in NTC:  
 
 **Chairman**
 
@@ -364,10 +369,12 @@ There are total 8 directors in NTC:
 -   Mr. Ambika Prasad Paudel(Public Shareholder Representative)
 
 -   Mr. Rajendra Aryal(Company Secretary)
+  
 
 **My Final thoughts on Management and Bod of Ntc**
 
 Overall, Ntc management and Bod team seems capable to handle the business in terms of their experience and degree. However,It seems like some members of Ntc teams are heavily influenced by politics due to government stake. From my general observation and review from the Internet, i found that Ntc staffs(government workers) are not effective as per their competitors Ncell. Thus,we can expect this company will continue to provide slow services to its customer.
+  
 
 **Conclusion and Final Thought**
 
