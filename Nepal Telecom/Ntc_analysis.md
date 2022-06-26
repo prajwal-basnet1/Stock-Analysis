@@ -11,7 +11,7 @@ Government**:164,736,000**
 
 Public**:15,264,000**
 
-<img src="./ntc_image/ownership.png" width="300px" height="200px">
+<img src="./ntc_image/ownership.png" width="500px" height="400px">
 
 
 **MOAT**
@@ -128,7 +128,8 @@ Public**:15,264,000**
 						                   (as per data service)
 
 From the above figures,the company\'s core business is increasing at a good rate.Customers from services like telephone,cdma,adsl etc is expected to decrease because of better technologies. Similarly, The figure for voice services customers has increased by 7.7 % from 2077 with 2 core 11 lakh customer and for the data service the figure increased by 35% approx with 2 core 4 lakh customers. subsequently,The market share for data service and voice service is 53.72 % and 53.06% respectively as of 2077/78.However,There is gradual decrease in International Roaming services due to ott services like whatsapp, viber etc. Looking at it's only competitor NCELL which is the subsidiary of AXIATA group with 20% local investment is providing better data services,good data packages and other services compare to NTC and been a serious threat to this company. Due to the ownership of government and the size of this company, it has big advantage.
-
+  
+   
 **Revenue**
 
 <img src="./ntc_image/REVENUE.png" width="500px" height="400px">
@@ -147,22 +148,24 @@ The following reasons revenue of company has been declining:
 
 4. Ott services:Due to the online services like whatsapp , facebook, viber etc the revenue from international service has been declining and expected to decrease in future.
 
-The company is well aware of the reason for the decrease in revenue so they are planning to trade off with value added service namely ftth(fibre to the home) service.
+The company is well aware of the reason for the decrease in revenue so they are planning to trade off with value added service namely ftth(fibre to the home) service.  
+  
+  
 
 **VALUATION**
 
 > Its very hard to go bankrupt if you don't have any debt \~ peter lynch
 
-**LTP as of 2022-06-22:** Rs 860
-**Ordinary Share Outstanding:** 180,000,000
-**Net Worth Per Share:** Rs 511.77
-**PE:** 21.36
-**Last 5 years average q4 eps:** Rs 75.872
-**Price to Book Value:** 1.68
-**ROE:** 5.73
-**RoA:** 3.51
-**operating profit margin:** 33%
-**Return on Shareholder Investment:** 47%
+**LTP as of 2022-06-22:** Rs 860  
+**Ordinary Share Outstanding:** 180,000,000  
+**Net Worth Per Share:** Rs 511.77  
+**PE:** 21.36  
+**Last 5 years average q4 eps:** Rs 75.872  
+**Price to Book Value:** 1.68  
+**ROE:** 5.73  
+**RoA:** 3.51  
+**operating profit margin:** 33%  
+**Return on Shareholder Investment:** 47%  
 
 These figures illustrate the company\'s current financial condition in a broad range.
 
