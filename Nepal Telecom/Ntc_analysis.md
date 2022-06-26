@@ -3,7 +3,7 @@
 Nepal Telecom a.k.a Ntc is telecommunication company established in 2004 which provides services like voice communication,internet service and recently started it's I.T services from subsidiary company Nepal Digital payment company. The main objective of this company is to provide
 telecommunication services throughout the country at a cheapest price and it has succeeded till now. NTC has almost moved from cdma to G.s.M(voice service) which is positive and currently the company is focusing on data services.It has been providing services to all 77 district throughout Nepal with 720 + 4G/LTE service and they are currently working for this project. However,There is gradual decrease in International Roaming services due to ott services like whatsapp,viber etc. so they are planning to trade off with other services like Data service,Value added service(service beyond voice call).The company major objective on upcoming years is to increase the customer on FTTH(Fibre to the home) service at cheap price. I have checked the review of the service from the users and find it very positive in terms of price and speed of the internet.
 
-\ 
+<br/> 
 
 **Ownership**
 
