@@ -11,7 +11,7 @@ Government**:164,736,000**
 
 Public**:15,264,000**
 
-<img src="/home/prajwal/Downloads/ntc_image/ownership.png" width="300px" height="200px">
+<img src="./ntc_image/ownership.png" width="300px" height="200px">
 
 
 **MOAT**
@@ -131,7 +131,7 @@ From the above figures,the company\'s core business is increasing at a good rate
 
 **Revenue**
 
-<img src="/home/prajwal/Downloads/ntc_image/REVENUE.png" width="500px" height="400px">
+<img src="./ntc_image/REVENUE.png" width="500px" height="400px">
 
 
 The major source of revenue of the company comes from
@@ -341,7 +341,7 @@ There are total 8 directors in NTC:
 
 **Chairman**
 
-<img src="/home/prajwal/Downloads/ntc_image/baikuntha_aaryal_1.jpg" width="300px" height="200px">
+<img src="./ntc_image/baikuntha_aaryal_1.jpg" width="300px" height="200px">
 
 > **Mr. Baikuntha Aryal**
 >
