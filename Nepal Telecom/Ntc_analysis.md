@@ -7,12 +7,12 @@ telecommunication services throughout the country at a cheapest price and it has
 
 **Ownership**
 
-**ShareOutstanding:** 180,000,000.00
-**Government:** 164,736,000
-**Public**:15,264,000
+**ShareOutstanding:** 180,000,000.00  
+**Government:** 164,736,000  
+**Public**:15,264,000  
 
 <img src="./ntc_image/ownership.png" width="450px" height="350px">
-\
+<br/>
 
 **MOAT**
 
@@ -21,10 +21,10 @@ telecommunication services throughout the country at a cheapest price and it has
 -   Higher Profit margin.
 
 -   Government owned company.
-\
+<br/>
 
 **Company Service Growth**
-\
+<br/>
 
 <table>
 	<tr>
@@ -127,10 +127,10 @@ telecommunication services throughout the country at a cheapest price and it has
 </table>
 
 						                   (as per data service)
-\
-\
+<br/>
+
 From the above figures,the company\'s core business is increasing at a good rate.Customers from services like telephone,cdma,adsl etc is expected to decrease because of better technologies. Similarly, The figure for voice services customers has increased by 7.7 % from 2077 with 2 core 11 lakh customer and for the data service the figure increased by 35% approx with 2 core 4 lakh customers. subsequently,The market share for data service and voice service is 53.72 % and 53.06% respectively as of 2077/78.However,There is gradual decrease in International Roaming services due to ott services like whatsapp, viber etc. Looking at it's only competitor NCELL which is the subsidiary of AXIATA group with 20% local investment is providing better data services,good data packages and other services compare to NTC and been a serious threat to this company. Due to the ownership of government and the size of this company, it has big advantage.
-\
+<br/>
    
 **Revenue**
 
