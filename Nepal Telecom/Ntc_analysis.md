@@ -154,7 +154,7 @@ The company is well aware of the reason for the decrease in revenue so they are 
 
 **VALUATION**
 <br/>
-                               > Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
+>                                                  Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
 <br/>  
 
 **LTP as of 2022-06-22:** Rs 860  
@@ -248,8 +248,7 @@ Pre tax income=Rs 10,946,367,788
 Share outstanding= 180,000,000  
 Ltp=Rs 860  
 Pre tax per share= Rs 60.81  
-Pre tax interest rate=60.81/860  
-		                           =7.07%  
+Pre tax interest rate=60.81/860  = 7.07%  
   
   
 I think there are good odds that it can grow its profits, by a healthy 4\~9% per year, due to its strong moat, strong cash generation capability, and strategic initiative to both grow and diversify income streams. Thus, Ntc is giving you 7 percent interest on 860 rupees which can increase by 4\~9 percent over year.
@@ -348,7 +347,8 @@ Total share after including bonus=199
 Capital gains=(199 X 860) - 1,00,000=Rs 71,140  
 
 Total gain=capital gains + total cash divided  
-			   =Rs 71,140+ 35,690 =Rs 1,06,830  
+			   =Rs 71,140+ 35,690
+			   =Rs 1,06,830  
   
   <br/>
 
