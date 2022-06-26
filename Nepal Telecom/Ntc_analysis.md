@@ -16,9 +16,7 @@ telecommunication services throughout the country at a cheapest price and it has
 **MOAT**
 
 -   Biggest telecommunication company in Nepal.
-
 -   Higher Profit margin.
-
 -   Government owned company.
 <br/>
 
@@ -131,7 +129,6 @@ telecommunication services throughout the country at a cheapest price and it has
 From the above figures,the company\'s core business is increasing at a good rate.Customers from services like telephone,cdma,adsl etc is expected to decrease because of better technologies. Similarly, The figure for voice services customers has increased by 7.7 % from 2077 with 2 core 11 lakh customer and for the data service the figure increased by 35% approx with 2 core 4 lakh customers. subsequently,The market share for data service and voice service is 53.72 % and 53.06% respectively as of 2077/78.However,There is gradual decrease in International Roaming services due to ott services like whatsapp, viber etc. Looking at it's only competitor NCELL which is the subsidiary of AXIATA group with 20% local investment is providing better data services,good data packages and other services compare to NTC and been a serious threat to this company. Due to the ownership of government and the size of this company, it has big advantage.
 
 <br/>
-<br/>
    
 **Revenue**
 
@@ -156,9 +153,9 @@ The company is well aware of the reason for the decrease in revenue so they are 
 <br/>
 
 **VALUATION**
-
-> Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
-  
+<br/>
+                               > Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
+<br/>  
 
 **LTP as of 2022-06-22:** Rs 860  
 **Ordinary Share Outstanding:** 180,000,000  
@@ -261,8 +258,9 @@ I think there are good odds that it can grow its profits, by a healthy 4\~9% per
 **Market Capitalization**
 
 The market capitalization shows the cost to buy the whole company at current LTP(warren buffet approach of thinking as buying whole company even if buying small number of shares).The company has gave bonus for the very first time in 2077/78 by 20 percent from 150,000,000 to 180,000,000.We can buy the whole company at 154.8(1 kharab 54 arba 80 core) billion Rupees which might seem intimidating at first but the main treasure of Ntc is hidden in its Reserve and surplus which is at Rs 74 billion 680 million Rupees and it has deposit and investment of debenture and loan worth of Rs 40 billion and 13 billion respectively.
-  
+
 <br/>
+
 **Graham Number**
 
 Graham number is a traditional approach of representing fair valuation by value investor which sets the upper price limits paid by defensive investors. The formula of Graham number is $\sqrt{15  X  1. 5  X  E. P. S X  Book Value}$
@@ -276,11 +274,13 @@ And by using this formula,Graham value of Ntc is Rs 680.87.
 In my words,the Graham number is the maximum price with lowest downside risk. Up to this price I won't hesitate to concentrate 70 percent of my portfolio on this company after properly analysing. Although this formula has been very useful to value investors, It does leave out many fundamental characteristics like competition,major stakeholders,industry characteristics etc. So, relying solely on this formula is not a good idea.
   
  <br/>
+ 
 **Intrinsic value based on Discounted cash flow**
 
 The free cash flow of this company is very low compared to the market capitalization so the intrinsic value will be very less which is not true for this company because of its large property and investments so investors might miss the chance of buying this company. As charlie munger says vaguely rights beats precisely wrong so betting based on intrinsic value for this company can be big mistake. Also, the valuation will be different according to different analyst so for me projection on future plays only minor role so i have decided to not include Discounted cash flow calculation for this company.
   
   <br/>
+  
 **Dividends & PE history**
 
 <table>
@@ -332,6 +332,7 @@ The free cash flow of this company is very low compared to the market capitaliza
 The dividend of this company has been very satisfactory to the investors compared to other companies. The historical PE ratio illustrates that the investor expectation on this company is not optimistic until 2077/78 which I believe due to the bull run on the overall market.
   
   <br/>
+  
 **Past Investment returns on NTC**
 
 Ntc has provided satisfactory dividends to its investors. Due to overall market crash the company has lost around 34 percent in a year 2078/79.Considering the investment of Rs 1 lakh 5 years ago at \@600 , Ntc shareholders will have compounded their money by 15.64 percent in 5 years period excluding tax.
@@ -379,11 +380,13 @@ There are total 8 directors in NTC:
 -   Mr. Rajendra Aryal(Company Secretary)
   
 <br/>
+
 **My Final thoughts on Management and Bod of Ntc**
 
 Overall, Ntc management and Bod team seems capable to handle the business in terms of their experience and degree. However,It seems like some members of Ntc teams are heavily influenced by politics due to government stake. From my general observation and review from the Internet, i found that Ntc staffs(government workers) are not effective as per their competitors Ncell. Thus,we can expect this company will continue to provide slow services to its customer.
   
 <br/>
+
 **Conclusion and Final Thought**
 
 This report analyzes Ntc as a industry leader in the telecommunication industry which is trading at a favourable price. The results show that NTC presents excellent prospects for offering double-digit returns in the long term with a wide margin of safety. Under its current valuation, we do not need it to win for our investment to generate a handsome return. As long as it does not lose an investment here,thus,it is similar to owning a bond with a 7% yield even if its profits stagnate forever. Furthermore, The ftth service,good data service and the diversification of company in good business is going to play a major role in future if the company is to grow quickly.
