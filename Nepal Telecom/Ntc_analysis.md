@@ -154,7 +154,7 @@ The company is well aware of the reason for the decrease in revenue so they are 
 
 **VALUATION**
 <br/>
->                    Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
+>Its very hard to go bankrupt if you don't have any debt \~ peter lynch  
 <br/>  
 
 **LTP as of 2022-06-22:** Rs 860  
