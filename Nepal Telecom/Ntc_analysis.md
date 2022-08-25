@@ -17,7 +17,7 @@ telecommunication services throughout the country at a cheapest price and it has
 
 -   Biggest telecommunication company in Nepal.
 -   Higher Profit margin.
--   Government owned company.
+
 <br/>
 
 **Company Service Growth**
